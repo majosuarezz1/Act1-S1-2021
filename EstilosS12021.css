@@ -375,3 +375,24 @@ color: white;
     
 }
 
+.boton{
+		position: absolute;
+		color: blue;
+		top: 10%;
+		left: 31%;
+        font-family: Rockwell;
+        background: transparent;
+        border: none;
+        color: black;
+        padding: 8px 20px;
+        text-align: center;
+        display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #7BBDBC;
+      border: 2px solid #7F9E7B;
+
+	}
